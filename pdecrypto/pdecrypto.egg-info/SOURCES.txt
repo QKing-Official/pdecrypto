@@ -1,0 +1,5 @@
+setup.py
+pdecrypto.egg-info/PKG-INFO
+pdecrypto.egg-info/SOURCES.txt
+pdecrypto.egg-info/dependency_links.txt
+pdecrypto.egg-info/top_level.txt
